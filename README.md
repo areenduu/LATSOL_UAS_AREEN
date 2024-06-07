@@ -1,7 +1,8 @@
 # LATSOL_UAS_AREEN
 
 **SOAL**
-Sebuah perusahaan retail ingin menganalisis data penjualan mereka untuk memahami performa penjualan produk-produk mereka. Mereka ingin melihat pola penjualan berdasarkan kategori produk, performa penjualan per bulan, top produk yang paling laris, dan bagaimana performa pengiriman barang.
+
+Sebuah perusahaan retail ingin menganalisis data penjualan mereka untuk memahami performa penjualan produk-produk mereka. Mereka ingin melihat pola penjualan berdasarkan kategori produk, performa penjualan per bulan, top produk yang paling laris, dan bagaimana performa pengiriman barang. Disediakan 5 tabel yaitu, tabel produk, penjualan, pengiriman, pelanggan, dan pegawai.
 
 Berikut adalah interpretasi atau penjelasan penyelesaian masalah berdasarkan visualisasi yang telah dibuat:
 
