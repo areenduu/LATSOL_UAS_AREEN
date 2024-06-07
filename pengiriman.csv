@@ -1,0 +1,4 @@
+id_pengiriman;id_penjualan;tanggal_pengiriman;alamat_pengiriman;status_pengiriman
+1;1;01/05/2024;Jl. Raya No. 123;Sedang Dikirim
+2;2;02/05/2024;Jl. Maju No. 45;Sudah Diterima
+3;3;03/05/2024;Jl. Baru No. 78;Sedang Dikirim

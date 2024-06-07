@@ -1,0 +1,4 @@
+id_pegawai;nama_pegawai;jabatan_pegawai;alamat_pegawai;email_pegawai
+1;Alice;Manager;Jl. Utama No. 1;alice@example.com
+2;Bob;Kasir;Jl. Baru No. 2;bob@example.com
+3;Carol;Gudang;Jl. Maju No. 3;carol@example.com
